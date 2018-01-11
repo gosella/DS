@@ -24,3 +24,5 @@ Este repositorio contiene la implementación de varias estructuras de datos clá
             - BFS
             - Orden topológico
             - Camino más corto (algoritmo de Dijkstra)
+
+Muchas de las estructuras de datos también están [implementadas en Python](Python/).
