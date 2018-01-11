@@ -1,7 +1,6 @@
 # Estructuras de Datos
 
 Este repositorio contiene la implementación de varias estructuras de datos clásicas implementadas en C++11 usadas en un curso universitario:
-
 - [Arreglo de tamaño dinámico](C++/dynamic-array/dynamic_array.h).
 - [Pila de tamaño estático](C++/static-stack/stack.h).
 - [Cola de tamaño estático](C++/static-queue/queue.h).
@@ -17,7 +16,7 @@ Este repositorio contiene la implementación de varias estructuras de datos clá
         - [Usando un iterador bidireccional con nodos conteniendo enlaces a sus padres](C++/iterative-BST-bidirectional-light-iterator/tree.h).
 - [Árbol AVL](C++/avl/avl.h).
 - [Implementación de un mapa asociativo (usando internamiente un árbol AVL)](C++/avl-as-map/avl_map.h).
-- [Cola con prioridad (usando internamente un montículo binario)](C++/priority_queue/priority_queue.h).
+- [Cola con prioridad](C++/priority_queue/priority_queue.h) usando internamente un [montículo binario](C++/priority_queue/heap.h).
 - Grafos:
     - [Usando lista de adyacencia](C++/graphs/adjacency_list.h).
     - [Usando matriz de adyacencia](C++/graphs/adjacency_matrix.h).
